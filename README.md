@@ -2,6 +2,7 @@
 Excel Sheet to rate movies.
 
 Rating system:
+
 ★★★★★ 96-100
 
 ★★★★½ 86-95
