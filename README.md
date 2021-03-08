@@ -3,25 +3,25 @@ Excel Sheet to rate movies.
 
 Rating system:
 
-★★★★★ 96-100
+★★★★★ 95-100
 
-★★★★½ 86-95
+★★★★½ 89-94
 
-★★★★ 76-85
+★★★★ 79-88
 
-★★★½ 66-75
+★★★½ 69-78
 
-★★★ 56-65
+★★★ 59-68
 
-★★½ 46-55
+★★½ 49-58
 
-★★ 36-45
+★★ 39-48
 
-★½ 26-35
+★½ 29-38
 
-★ 16-25
+★ 19-28
 
-½ 0-15
+½ 0-18
 
 # Where is my rating based on?
 - Movie Skills: Acting skills, visuals, soundtrack. So all the work behind the movie. 
