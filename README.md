@@ -5,23 +5,23 @@ Rating system:
 
 ★★★★★ 95-100
 
-★★★★½ 89-94
+★★★★½ 85-94
 
-★★★★ 79-88
+★★★★ 75-84
 
-★★★½ 69-78
+★★★½ 65-74
 
-★★★ 59-68
+★★★ 55-64
 
-★★½ 49-58
+★★½ 45-54
 
-★★ 39-48
+★★ 35-44
 
-★½ 29-38
+★½ 25-34
 
-★ 19-28
+★ 15-24
 
-½ 0-18
+½ 0-14
 
 # Where is my rating based on?
 - Movie Skills: Acting skills, visuals, soundtrack. So all the work behind the movie. 
