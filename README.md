@@ -2,6 +2,7 @@
 Excel Sheet to rate movies.
 
 🇷​🇦​🇹​🇮​🇳​🇬​ 🇸​🇾​🇸​🇹​🇪​🇲​​
+
 ★★★★★ = MASTERPIECE = 96-100
 
 ★★★★½= EXCELLENT = 90-95
