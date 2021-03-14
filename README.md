@@ -1,4 +1,4 @@
-# BookRatingLetterboxd
+# BookRatingGoodreads
 Excel Sheet to rate books.
 
 🇷​🇦​🇹​🇮​🇳​🇬​ 🇸​🇾​🇸​🇹​🇪​🇲​​
