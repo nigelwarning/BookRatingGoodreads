@@ -1,5 +1,5 @@
-# MovieRatingLetterboxd
-Excel Sheet to rate movies.
+# BookRatingLetterboxd
+Excel Sheet to rate books.
 
 🇷​🇦​🇹​🇮​🇳​🇬​ 🇸​🇾​🇸​🇹​🇪​🇲​​
 
