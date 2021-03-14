@@ -25,8 +25,8 @@ Excel Sheet to rate books.
 
 
 # Where is my rating based on?
-- Movie Skills: Acting skills, visuals, soundtrack. So all the work behind the movie. 
+- Book Skills: Style of writing, 
 - Story: How do I like the story? Do I like the story? Is it well paced? Do I like the choices of the writers?
-- Enjoyment: How much did I like this movie? I tend to give a B-movie a lower note, but sometimes we enjoy 'so bad it is good movies' So when I enjoy a bad movie, this rating will give a bit better rating.
+- Enjoyment: How much did I like this books? I tend to give a bad book a lower note, but sometimes we enjoy 'so bad it is good books' So when I enjoy a bad book, this rating will give a bit better rating.
 - Own Rating: My own rating
-- Letterboxd Rating: The Letterboxd rating of the movie.
+- Goodreads Rating: The Goodreads rating of the movie.
