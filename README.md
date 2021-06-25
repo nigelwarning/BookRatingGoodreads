@@ -1,32 +1,26 @@
-# BookRatingGoodreads
-Excel Sheet to rate books.
+# MovieRatingLetterboxd
+Excel Sheet to rate movies.
 
 🇷​🇦​🇹​🇮​🇳​🇬​ 🇸​🇾​🇸​🇹​🇪​🇲​​
 
-★★★★★ = MASTERPIECE = 96-100
+Rating system:
 
-★★★★½= EXCELLENT = 90-95
+ ★★★★★ 96-100
 
-★★★★= GREAT = 80-89
+ ★★★★½ 86-95
 
-★★★½ = GOOD = 70-79
+ ★★★★ 76-85
 
-★★★ = OK = 60-69
+ ★★★½ 66-75
 
-★★½ = MEH = 50-59
+ ★★★ 56-65
 
-★★ = BAD = 40-49
+ ★★½ 46-55
 
-★½ = TOO BAD = 30-39
+ ★★ 36-45
 
-★ = TERRIBLE = 20-29
+ ★½ 26-35
 
-½ = TIME WASTED = 0-19
+ ★ 16-25
 
-
-# Where is my rating based on?
-- Book Skills: Style of writing, 
-- Story: How do I like the story? Do I like the story? Is it well paced? Do I like the choices of the writers?
-- Enjoyment: How much did I like this books? I tend to give a bad book a lower note, but sometimes we enjoy 'so bad it is good books' So when I enjoy a bad book, this rating will give a bit better rating.
-- Own Rating: My own rating
-- Goodreads Rating: The Goodreads rating of the movie.
+ ½ 0-15
