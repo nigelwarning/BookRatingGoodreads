@@ -5,22 +5,22 @@ Excel Sheet to rate movies.
 
 Rating system:
 
- ★★★★★ 95-100
+★★★★★ = MASTERPIECE = 96-100
 
- ★★★★½ 85-94
+★★★★½= EXCELLENT = 90-95
 
- ★★★★ 75-84
+★★★★= GREAT = 80-89
 
- ★★★½ 65-74
+★★★½ = GOOD = 70-79
 
- ★★★ 55-64
+★★★ = OK = 60-69
 
- ★★½ 45-54
+★★½ = MEH = 50-59
 
- ★★ 35-44
+★★ = BAD = 40-49
 
- ★½ 25-34
+★½ = TOO BAD = 30-39
 
- ★ 15-24
+★ = TERRIBLE = 20-29
 
- ½ 0-14
+½ = TIME WASTED = 0-19
